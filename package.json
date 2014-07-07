@@ -1,0 +1,13 @@
+{
+    "name": "softGrayDos",
+    "author": "Wakanda",
+    "copyright": "GNU GPL v3, AGPL v3, Commercial",
+    "studio": {
+        "label": "softGrayDos",
+        "mobile": "false"
+    },
+    "version": "1.0.0",
+    "loadDependencies": [                                    
+        {"id": "softGrayDos/softgraydos.css", "path": "THEMES_CUSTOM"}
+    ]
+}
