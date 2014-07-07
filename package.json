@@ -1,7 +1,11 @@
 {
     "name": "softGrayDos",
-    "author": "Wakanda",
+    "author": "Wakanda, Juan Orozco",
     "copyright": "GNU GPL v3, AGPL v3, Commercial",
+    "repository" : {
+    	"type": "git",
+    	"url": "https://github.com/Guamaso/wakandaTheme_softGrayDos"
+    },
     "studio": {
         "label": "softGrayDos",
         "mobile": "false"
