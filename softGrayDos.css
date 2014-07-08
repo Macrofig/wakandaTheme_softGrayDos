@@ -1450,6 +1450,7 @@ body.yui-layout .waf-theme.softGrayDos .waf-fileUpload .waf-button.waf-fileUploa
 .waf-theme.softGrayDos .waf-menuBar {
 	border: 1px solid rgb(204, 204, 204);
     border-radius: 3px;
+    text-align:center;
 }
 
 /**
@@ -1466,6 +1467,7 @@ body.yui-layout .waf-theme.softGrayDos .waf-fileUpload .waf-button.waf-fileUploa
     background-image:         linear-gradient(top, rgb(250, 249, 251) 0%, rgb(227, 227, 235) 100%);
     
     color: rgb(102, 102, 102);
+    text-align:center;
 }
 /* States */
 .waf-theme.softGrayDos .waf-menuBar .waf-menuItem.waf-state-hover {
@@ -1501,6 +1503,7 @@ body.yui-layout .waf-theme.softGrayDos .waf-fileUpload .waf-button.waf-fileUploa
 .waf-theme.softGrayDos .waf-menuBar.waf-menuBar-horizontal > .waf-menuItem {
     border-right: 1px solid rgb(204, 204, 204);
     border-left: 1px solid rgb(255, 255, 255);
+    text-align:center;
 }
 .waf-theme.softGrayDos .waf-menuBar.waf-menuBar-horizontal > .waf-menuItem.waf-menuItem-first {
     border-left-width: 0;
@@ -1835,7 +1838,6 @@ body.yui-layout .waf-theme.softGrayDos .waf-fileUpload .waf-button.waf-fileUploa
 .waf-theme.softGrayDos .waf-tabView .waf-tabView-menuBar .waf-menuItem {
     border: 1px solid rgb(204, 204, 204);
     border-radius: 3px;
-    text-align:left;
 }
 
 /* States */
