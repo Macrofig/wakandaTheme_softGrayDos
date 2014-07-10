@@ -448,6 +448,20 @@ padding-left:1rem;
     box-shadow: 0 0 1px 1px rgba(255, 255, 255, 0.4) inset;
 }
 
+/**
+ * Widget Button Class Extensions
+ *
+ * Includes button-specific rules of the 'Soft Gray' theme
+ *
+ * @subsection Button extensions
+ *
+ * @link /walib/WAF/widget/button/css/widget-buttonImage.css
+*/
+.waf-theme.softGrayDos .waf-button.button-primary
+{
+	background-image: -webkit-linear-gradient(top,#F9F8FA 0,#C3C3D4 100%);
+}
+
 
 /**
  * Widget buttonImage
