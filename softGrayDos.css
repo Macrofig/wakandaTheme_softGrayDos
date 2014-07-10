@@ -458,8 +458,12 @@ padding-left:1rem;
  * @link /walib/WAF/widget/button/css/widget-buttonImage.css
 */
 .waf-theme.softGrayDos .waf-button.button-primary
-{
-	background-image: -webkit-linear-gradient(top,#F9F8FA 0,#C3C3D4 100%);
+{                                                                                                                                        
+    background-image: -webkit-linear-gradient(top, rgb(249, 248, 250) 0%, rgb(195, 195, 212) 100%);
+    background-image:    -moz-linear-gradient(top, rgb(249, 248, 250) 0%, rgb(195, 195, 212) 100%);
+    background-image:     -ms-linear-gradient(top, rgb(249, 248, 250) 0%, rgb(195, 195, 212) 100%);
+    background-image:      -o-linear-gradient(top, rgb(249, 248, 250) 0%, rgb(195, 195, 212) 100%);
+    background-image:         linear-gradient(top, rgb(249, 248, 250) 0%, rgb(195, 195, 212) 100%);
 }
 
 
