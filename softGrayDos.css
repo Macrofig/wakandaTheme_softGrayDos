@@ -1513,6 +1513,13 @@ body.yui-layout .waf-theme.softGrayDos .waf-fileUpload .waf-button.waf-fileUploa
     color: rgb(255, 255, 255);
 }
 
+.waf-theme.softGrayDos .waf-menuBar .waf-menuItem.waf-state-disabled {
+    cursor:auto;
+    color: #aaaaaa;
+}
+
+
+
 /**
  * -------------------------------------------------------
  * @section MenuBar Horizontal
