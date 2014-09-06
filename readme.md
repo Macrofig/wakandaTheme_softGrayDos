@@ -14,9 +14,9 @@ Clone into your Wakanda Studio's Theme folder.
 
 ```batch
 cd WAKANDA_HOME/Themes
-git clone https://github.com/Guamaso/wakandaTheme_softGrayDos.git softGrayDos
+git clone https://github.com/Knowledge-Sharing-Systems/wakandaTheme_softGrayDos.git softGrayDos
 ```
-Or you can [browse to the repo](https://github.com/Guamaso/wakandaTheme_softGrayDos) and click the "Download ZIP" link. Make sure you rename the zipped folder to `softGrayDos`.
+Or you can [browse to the repo](https://github.com/Knowledge-Sharing-Systems/wakandaTheme_softGrayDos) and click the "Download ZIP" link. Make sure you rename the zipped folder to `softGrayDos`.
 
 ### Step Two
 
@@ -48,8 +48,3 @@ This will get mad if you have edited the theme at all. You can stash or revert (
 If you downloaded the ZIP, you will have to download it again.
 
 **Make sure that the theme files are directly inside the folder `softGrayDos`!!**  Wakanda will not display the theme properly otherwise.
-
-
-
-
-
